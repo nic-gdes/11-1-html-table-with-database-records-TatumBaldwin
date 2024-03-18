@@ -6,6 +6,6 @@
     <title>Assignment 11.1: HTML Table with Database Records</title>
 </head>
 <body>
-    
+    <h1>Hello</h1>
 </body>
 </html>
